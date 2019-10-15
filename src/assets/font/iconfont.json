@@ -1,0 +1,86 @@
+{
+  "id": "1444821",
+  "name": "webapp",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1314003",
+      "name": "咖啡",
+      "font_class": "kafei",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "1330783",
+      "name": "详情介绍",
+      "font_class": "xiangqingjieshao",
+      "unicode": "e75b",
+      "unicode_decimal": 59227
+    },
+    {
+      "icon_id": "1486819",
+      "name": "活动",
+      "font_class": "huodong",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "1617039",
+      "name": "抢购",
+      "font_class": "qianggou",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "2380615",
+      "name": "安全",
+      "font_class": "anquan",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "3312861",
+      "name": "快递员",
+      "font_class": "kuaidiyuan",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "3544188",
+      "name": "金钱袋",
+      "font_class": "ico_home_obligation",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "4186487",
+      "name": "钱",
+      "font_class": "qian",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "4485667",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5295988",
+      "name": "回收站",
+      "font_class": "lolitahuishouzhan",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "5732987",
+      "name": "睡觉、床、休息",
+      "font_class": "shuijue",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    }
+  ]
+}
